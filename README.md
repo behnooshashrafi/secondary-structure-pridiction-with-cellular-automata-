@@ -1,2 +1,3 @@
-# secondary-structure-pridiction-with-cellular-automata-
+# secondary-structure-prediction-with-cellular-automata-
 Implementation of "Evolved Cellular Automata for Protein Secondary Structure Prediction Imitate the Determinants for Folding Observed in Nature" paper
+As it is mentioned in the title of the paper, it is about predicting protein secondary structure using cellular automata. Cellular automata use a set of rules to generate the new state. These rules are discovered through artificial intelligence methods, in this case, the genetic algorithm. We took a step further and tried other artificial intelligence algorithms to estimate these rules. Hill climbing, Simulated annealing, Genetic algorithm, Particle swarm optimization and machine learning.
